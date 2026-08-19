@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "903975215501",
+    "project_id": "ethicfin-mc2",
+    "storage_bucket": "ethicfin-mc2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903975215501:android:ba1d1a90bb6cb2e17addc4",
+        "android_client_info": {
+          "package_name": "com.ethicfin.ethicfin_mc2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyYbq7fJ7i2Naz8kjvBurRZ6slevtqu5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
